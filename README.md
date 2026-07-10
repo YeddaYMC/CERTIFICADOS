@@ -1,2 +1,2 @@
 # SCITEC-2025
-Certificados SCITTEC 2026
+Certificados SCITEC 2026
